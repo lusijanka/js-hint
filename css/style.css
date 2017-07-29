@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+@import url("https://fonts.googleapis.com/css?family=Rubik:400,500");
+body {
+  margin: 0;
+  background-color: #f2f2f2;
+  font-family: 'Roboto', sans-serif; }
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif; }
+
+header {
+  padding: 40px;
+  background: url("https://images.pexels.com/photos/4173/nature-forest-plant-tropic.jpeg?h=350&auto=compress&cs=tinysrgb");
+  header h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 48px; }
+  header h1, header p {
+    color: white;
+    text-align: center; }
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  background-color: white; }
+  .container h2 {
+    padding: 20px; }
+
+section {
+  padding: 0 20%; }
+
+.about h2 {
+  margin-top: 60px;
+  font-size: 28px;
+  color: #d35400; }
+
+.interest h2 {
+  margin-top: 40px;
+  color: #1abc9c; }
+
+.interest p {
+  padding: 40px; }
+
+footer {
+  margin-top: 60px;
+  padding: 30px;
+  background-color: #e6e6e6; }
+  footer p {
+    text-align: center;
+    color: #404040; }
+  footer a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #d35400; }
+
+/*# sourceMappingURL=style.css.map */
